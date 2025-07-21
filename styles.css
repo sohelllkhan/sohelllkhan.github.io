@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+    color:white;
+    margin:auto;
+    /* padding:20px; */
+    width:80%;
+    font-size: 20px;
+    font-family: sans-serif;
+}
